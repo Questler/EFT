@@ -1,32 +1,27 @@
 # Good quest order
-- Introduction – Unlocks Jaeger
-- Debut – Unlocks Kalashnikov AKS-74U 5.45x39 Assault Rifle
-- Shortage
-- Checking
-- Acquaintance
-- Delivery from the Past – Unlocks 5.45x39mm PS gs
-- Both Operation Aquarius – Unlocks Army Bandage
-- Supplier – Unlocks Saiga-9 9x19 carbine
-- The Survivalist Path – Thrifty
-- Search Mission
-- Shootout Picnic
-- The Survivalist Path – Unprotected but Dangerous
-- Both Sanitary Standards – Unlocks Car First Aid Kit
-- Painkiller
-- BP Depot
-- The Extortionist
-- What's on the Flash Drive?
-- Bad Rep Evidence – Unlocks BelOMO PSO-1M2-1 4x24 scope
-- Golden Swag – Unlocks VOMZ Pilad P1x42 Weaver reflex sight
-- Chemical – Part 1
-- Polikhim Hobo
-- 1-3 Gunsmith
-- Farming - Part 1
-- Signal – Part 1
-- Friend from the West – Part 1
-
-## Ground Zero
+1. - Before moving on - Ground Zero
 - Saving the Mole - Mechanic
 - Shooting Cans - Prapor
 - First in Line - Therapist
 - Burning Rubber - Skier
+2. When you do other quests - Woods
+- Debut - Prapor – Unlocks Kalashnikov AKS-74U 5.45x39 Assault Rifle
+- Shortage - Therapist
+- Acquaintance - Jaeger
+- Supplier - Skier – Unlocks Saiga-9 9x19 carbine
+- Gunsmith 1 - Mechanic
+3. - Woods
+- Introduction - Mechanic – Unlocks Jaeger
+- (Easy money 1)
+4. When you do other quests - Woods/Customs
+- Gunsmith 1-3
+- (Easy money 1) - Skier - Woods then Customs
+- Sanitary Standards 1 - Therapist
+- Sanitary Standards 2 - Therapist
+- (Friend from The West 1) - Any location
+- Search Mission - Woods
+- Painkiller
+- Friend from the West 1 - Any location
+5.
+- Operation Aquarius 1 - Customs
+- The Extortionist - Skier - Customs
